@@ -28,7 +28,7 @@ jobs:
         run: |
           npm install
       - name: '运行 【中青看点cookie】'
-        if: env.YOUTH_HEADER
+        if: env.zqkdAccount
         run: |
           node zq_check.js
         env:
