@@ -1,2 +1,2 @@
-##ZQKD
-##自用，不要fork！！
+ZQKD\n
+自用，不要fork！！
